@@ -1,2 +1,2 @@
 # Raj-Patel
-Studying Master of engineering in electrical and computer
+# Studying Master of engineering in electrical and computer
